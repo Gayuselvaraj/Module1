@@ -12,7 +12,20 @@ To write a Python program to check whether the given number is **even** or **odd
 4. End the program.
 
 ## 🧾 Program
+```
+a=int(input())
+
+if(a==145):
+  print("Number is a strong number")
+else:
+  print("Number is NOT a strong number")
+```
 
 ## Output
 
-## Result
+
+![Screenshot 2025-04-29 100936](https://github.com/user-attachments/assets/53368185-798f-4b6f-b160-d083b468c49d)
+
+##result
+Thus the expected output is Acieved
+
